@@ -7,7 +7,7 @@ icon: 'mdi:git'
 tags: 'None'
 index: '2'
 created: None
-updated: 2023-12-22
+updated: 2024-05-27
 ---
 
 <!--
@@ -179,7 +179,7 @@ To learn about those, see the [Git Configuration](https://git-scm.com/book/en/v2
 	Article sourced from https://github.com/lissy93/git-into-opensource
 	Licensed under MIT License, (C) Alicia Sykes <alicia@as93.net> 2023
 	---
-	This file was auto-generated at 2023-12-22 23:04:40.091245
+	This file was auto-generated at 2024-05-27 09:25:09.462403
 	from /home/runner/work/git-into-open-source/git-into-open-source/guides/local-git-setup.md
 	using /home/runner/work/git-into-open-source/git-into-open-source/lib/copy_resources_to_site.py
 -->
